@@ -9,16 +9,16 @@ The CSV file includes a hourly/daily summary for Szeged, Hungary area, between 2
 
 Data available in the hourly response:
 
-time
-summary
-precipType
-temperature
-apparentTemperature
-humidity
-windSpeed
-windBearing
-visibility
-loudCover
+time,
+summary,
+precipType,
+temperature,
+apparentTemperature,
+humidity,
+windSpeed,
+windBearing,
+visibility,
+loudCover,
 pressure
 
 To set up project:
